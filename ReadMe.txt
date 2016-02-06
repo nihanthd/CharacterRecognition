@@ -1,0 +1,1 @@
+This is Kaggle's 101 project. Character Recognition with Julia.
